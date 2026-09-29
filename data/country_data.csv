@@ -1,0 +1,30 @@
+country,ai_adoption_2024,productivity_2023
+# AI adoption: Eurostat isoc_eb_ai, E_AI_TANY, PC_ENT, 10+ employees, 2024 (% of enterprises using >=1 AI technology)
+# Productivity: OECD GDP per hour worked 2023, USD PPP (via OECD/Wikipedia compilation)
+# NOTE: US and NI are NOT in this consistent dataset (US not in Eurostat; NI not separable from UK; UK dropped from Eurostat post-Brexit). They are handled separately with explicit caveats.
+Belgium,24.71,100.33
+Bulgaria,6.47,
+Czechia,11.26,60.48
+Denmark,27.58,99.23
+Germany,19.75,93.81
+Estonia,13.89,53.38
+Ireland,14.90,149.31
+Greece,9.81,44.78
+Spain,11.31,73.42
+France,9.91,88.15
+Croatia,11.76,
+Italy,8.20,77.09
+Latvia,8.83,55.88
+Lithuania,8.76,60.37
+Luxembourg,23.73,126.45
+Hungary,7.41,54.74
+Netherlands,23.06,94.38
+Austria,20.27,94.96
+Poland,5.90,54.28
+Portugal,8.63,59.25
+Romania,3.07,
+Slovenia,20.89,65.50
+Slovakia,10.78,60.13
+Finland,24.37,82.96
+Sweden,25.09,89.22
+Norway,20.77,132.28
